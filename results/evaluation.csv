@@ -1,0 +1,7 @@
+method,RMSE,MAE,Precision@5,Recall@5,NDCG@5
+User mean (baseline),1.081,0.886,,,
+Popularity (baseline),,,0.096,0.234,0.171
+Content-based,,,0.202,0.528,0.44
+Item-based CF,0.893,0.705,0.171,0.44,0.333
+SVD,0.954,0.772,0.193,0.51,0.429
+Hybrid (0.4/0.3/0.3),,,0.228,0.584,0.484

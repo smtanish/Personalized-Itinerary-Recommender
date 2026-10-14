@@ -1,0 +1,64 @@
+place_id,name,city,category,tags,cost_inr,duration_hrs,open_hour,close_hour,latitude,longitude,description
+J01,Amber Fort,Jaipur,fort,fort heritage history architecture palace unesco photography,100,2.5,8.0,17.5,26.9855,75.8513,Hilltop Rajput fort-palace with mirror halls and views over Maota Lake
+J02,Hawa Mahal,Jaipur,palace,palace heritage architecture photography history,50,1.0,9.0,17.0,26.9239,75.8267,Five-storey pink sandstone facade with 953 small windows
+J03,City Palace,Jaipur,palace,palace heritage history museum architecture art,200,2.0,9.5,17.0,26.9258,75.8237,Royal residence complex with courtyards and textile and arms galleries
+J04,Jantar Mantar,Jaipur,monument,heritage science history unesco architecture,50,1.0,9.0,16.5,26.9248,75.8246,18th-century astronomical observatory with giant stone instruments
+J05,Nahargarh Fort,Jaipur,fort,fort heritage viewpoint photography history,50,2.0,10.0,17.5,26.9373,75.8155,Aravalli ridge fort known for panoramic city views
+J06,Jaigarh Fort,Jaipur,fort,fort heritage history viewpoint,100,1.5,9.0,16.5,26.9851,75.8456,Hill fort housing the Jaivana cannon above Amber
+J07,Jal Mahal,Jaipur,palace,palace photography viewpoint architecture,0,0.5,6.0,22.0,26.9535,75.8463,Palace in the middle of Man Sagar Lake best seen from the promenade
+J08,Albert Hall Museum,Jaipur,museum,museum history art architecture family,40,1.5,9.0,17.0,26.9118,75.8195,Indo-Saracenic museum with an Egyptian mummy and decorative arts
+J09,Birla Mandir,Jaipur,temple,spiritual temple architecture,0,0.75,8.0,20.0,26.8921,75.8155,White marble Lakshmi-Narayan temple at the foot of Moti Dungri
+J10,Galtaji Temple,Jaipur,temple,spiritual temple nature heritage photography,0,1.5,6.0,20.0,26.9167,75.8578,Temple complex with natural springs and kunds in a rocky gorge
+J11,Govind Dev Ji Temple,Jaipur,temple,spiritual temple culture,0,0.75,6.0,21.0,26.9285,75.8237,Krishna temple inside the City Palace grounds known for its aartis
+J12,Johari Bazaar,Jaipur,market,shopping handicrafts street-food culture,0,1.5,11.0,21.0,26.9200,75.8270,Old-city bazaar for jewellery and gemstones
+J13,Bapu Bazaar,Jaipur,market,shopping handicrafts culture,0,1.5,11.0,21.0,26.9172,75.8186,Market for textiles mojaris and bandhani
+J14,Chokhi Dhani,Jaipur,culture,culture food family entertainment,1100,3.0,17.0,23.0,26.7675,75.8357,Rajasthani village resort with folk dance and a traditional thali dinner
+J15,Patrika Gate,Jaipur,monument,architecture photography art,0,0.75,8.0,20.0,26.8418,75.8037,Painted gateway at Jawahar Circle popular for photographs
+J16,Sisodia Rani Garden,Jaipur,garden,garden nature heritage palace,50,1.0,8.0,18.0,26.8970,75.8800,Terraced Mughal-style garden with fountains and murals
+J17,Panna Meena ka Kund,Jaipur,stepwell,heritage architecture photography,0,0.5,7.0,18.0,26.9850,75.8508,Symmetrical stepwell near Amber Fort
+J18,Anokhi Museum of Hand Printing,Jaipur,museum,museum handicrafts art culture,80,1.0,10.5,16.5,26.9873,75.8511,Haveli museum on block-printing with live demonstrations
+J19,Jawahar Kala Kendra,Jaipur,art centre,art culture museum architecture,0,1.5,10.0,20.0,26.8941,75.8087,Arts centre designed by Charles Correa with galleries and a cafe
+J20,Raj Mandir Cinema,Jaipur,entertainment,entertainment architecture culture,250,3.0,12.0,23.0,26.9155,75.8104,Art-deco single-screen cinema famous for its meringue interior
+J21,Masala Chowk,Jaipur,food,food street-food family,10,1.0,12.0,23.0,26.9116,75.8187,Open-air food court with stalls from across Jaipur
+J22,Laxmi Mishthan Bhandar,Jaipur,food,food culture,300,1.0,8.0,23.0,26.9204,75.8263,Old-city restaurant known for Rajasthani sweets and thalis
+J23,Jaipur Wax Museum,Jaipur,museum,museum entertainment family,500,1.0,10.0,18.5,26.9378,75.8150,Wax figures and a mirror room inside Nahargarh Fort
+J24,Central Park Jaipur,Jaipur,park,nature garden family,0,1.0,6.0,21.0,26.9030,75.8072,Large city park with a jogging track and musical fountain
+J25,Jhalana Leopard Safari,Jaipur,wildlife,wildlife nature adventure photography,1500,2.5,6.0,18.0,26.8590,75.8350,Jeep safari in a leopard reserve inside the city
+J26,Kanak Vrindavan Garden,Jaipur,garden,garden nature spiritual photography,0,1.0,8.0,18.0,26.9550,75.8430,Landscaped valley garden with temples below Nahargarh hills
+J27,World Trade Park,Jaipur,mall,shopping entertainment cafes,0,2.0,11.0,22.0,26.8540,75.8050,Modern mall with brands food court and cafes
+J28,Tripolia Bazaar,Jaipur,market,shopping handicrafts culture,0,1.0,11.0,20.0,26.9245,75.8210,Market for brassware lac bangles and household crafts
+J29,Sanganer Block Printing Village,Jaipur,craft village,handicrafts culture art shopping,0,2.0,10.0,18.0,26.8180,75.7900,Workshops where artisans hand-print fabric and handmade paper
+J30,Nahargarh Biological Park,Jaipur,wildlife,wildlife nature family adventure,50,2.0,8.5,17.0,27.0090,75.8960,Zoo and lion safari in the Aravalli foothills
+J31,Bar Palladio,Jaipur,nightlife,nightlife cafes food architecture,1500,2.0,18.0,23.5,26.9010,75.8070,Italian bar-restaurant with blue Moorish interiors
+D01,Red Fort,Delhi,fort,fort heritage history unesco architecture,50,2.0,9.5,16.5,28.6562,77.2410,Mughal fort of red sandstone that was the emperor's residence
+D02,Qutub Minar,Delhi,monument,heritage history unesco architecture photography,40,1.5,7.0,17.0,28.5245,77.1855,73-metre brick minaret and early Delhi Sultanate ruins
+D03,Humayun's Tomb,Delhi,tomb,heritage history unesco architecture garden,40,1.5,7.0,17.0,28.5933,77.2507,Garden tomb that inspired the Taj Mahal
+D04,India Gate,Delhi,memorial,memorial history photography family,0,1.0,7.0,22.0,28.6129,77.2295,War memorial arch at the end of Kartavya Path
+D05,Lotus Temple,Delhi,temple,spiritual architecture temple photography,0,1.0,9.0,17.0,28.5535,77.2588,Bahai house of worship shaped like a lotus flower
+D06,Akshardham Temple,Delhi,temple,spiritual temple architecture culture family,0,2.5,10.0,20.0,28.6127,77.2773,Large carved temple complex with exhibitions and a water show
+D07,Jama Masjid,Delhi,mosque,spiritual heritage architecture history,0,1.0,7.0,18.0,28.6507,77.2334,India's largest mosque with views from the minaret
+D08,Chandni Chowk,Delhi,market,shopping street-food heritage culture,0,2.0,10.0,20.0,28.6506,77.2303,Crowded Mughal-era market lanes of Old Delhi
+D09,Paranthe Wali Gali,Delhi,food,food street-food culture,200,1.0,9.0,22.0,28.6560,77.2300,Lane of century-old shops frying stuffed parathas
+D10,Raj Ghat,Delhi,memorial,memorial history garden,0,0.75,6.5,18.5,28.6406,77.2495,Memorial at Mahatma Gandhi's cremation site
+D11,National Museum,Delhi,museum,museum history art family,50,2.0,10.0,18.0,28.6118,77.2194,Collection spanning the Harappan era to modern India
+D12,Lodhi Garden,Delhi,garden,garden nature heritage photography,0,1.5,6.0,20.0,28.5931,77.2197,Park dotted with 15th-century tombs and walking trails
+D13,Hauz Khas Village,Delhi,nightlife,nightlife cafes heritage food,500,2.0,11.0,23.0,28.5535,77.1940,Cafes and bars beside a medieval lake and madrasa ruins
+D14,Connaught Place,Delhi,market,shopping cafes nightlife architecture,500,2.0,11.0,23.0,28.6315,77.2167,Georgian-style circular market at the heart of New Delhi
+D15,Dilli Haat INA,Delhi,market,shopping handicrafts food culture,30,2.0,10.5,22.0,28.5733,77.2088,Open-air crafts bazaar with food stalls from every state
+D16,Gurudwara Bangla Sahib,Delhi,gurudwara,spiritual culture food,0,1.0,5.0,22.0,28.6264,77.2091,Sikh shrine with a holy tank and free community kitchen
+D17,Agrasen ki Baoli,Delhi,stepwell,heritage architecture photography history,0,0.5,9.0,17.5,28.6262,77.2251,Stepwell hidden among the offices near Connaught Place
+D18,Safdarjung Tomb,Delhi,tomb,heritage history garden architecture,30,1.0,7.0,17.0,28.5893,77.2106,Late Mughal garden tomb
+D19,Purana Qila,Delhi,fort,fort heritage history photography,30,1.5,7.0,17.0,28.6096,77.2437,16th-century fort with a boating lake
+D20,National Rail Museum,Delhi,museum,museum science family history,100,2.0,10.0,17.0,28.5853,77.1803,Outdoor collection of historic locomotives and a toy train
+D21,Khan Market,Delhi,market,shopping cafes food,600,1.5,11.0,22.0,28.6003,77.2270,Upmarket shopping street with bookshops and cafes
+D22,Sarojini Nagar Market,Delhi,market,shopping street-food,0,2.0,11.0,21.0,28.5776,77.1997,Budget fashion market popular with students
+D23,Sunder Nursery,Delhi,garden,garden nature heritage family,50,1.5,7.0,19.0,28.5940,77.2440,Restored heritage park with Mughal monuments and lawns
+D24,Mehrauli Archaeological Park,Delhi,heritage park,heritage history nature photography,0,1.5,7.0,18.0,28.5190,77.1880,Over 100 monuments scattered through woodland
+D25,ISKCON Temple Delhi,Delhi,temple,spiritual temple culture,0,1.0,5.0,21.0,28.5574,77.2433,Krishna temple with a multimedia show
+D26,Gandhi Smriti,Delhi,museum,museum history memorial,0,1.0,10.0,17.0,28.6016,77.2141,House where Gandhi spent his last days
+D27,Majnu ka Tilla,Delhi,food,food cafes culture,300,1.5,11.0,22.0,28.7020,77.2280,Tibetan colony known for momos and cafes
+D28,Nehru Planetarium,Delhi,museum,science museum family,100,1.0,10.0,17.0,28.6020,77.1990,Sky-theatre shows inside Teen Murti Bhavan
+D29,Garden of Five Senses,Delhi,garden,garden nature art family,35,1.5,9.0,19.0,28.5137,77.1983,Themed garden with sculptures and sensory zones
+D30,Select Citywalk Saket,Delhi,mall,shopping entertainment cafes food,500,2.0,10.0,22.0,28.5286,77.2190,Large mall with brands restaurants and a cinema
+D31,National Zoological Park,Delhi,wildlife,wildlife nature family,80,2.5,9.0,16.5,28.6020,77.2460,City zoo next to Purana Qila
+D32,Khari Baoli Spice Market,Delhi,market,food shopping heritage culture photography,0,1.5,9.0,19.0,28.6585,77.2215,Asia's largest wholesale spice market in the lanes of Old Delhi

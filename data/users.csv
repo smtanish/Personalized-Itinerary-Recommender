@@ -1,0 +1,301 @@
+user_id,personas
+U001,heritage buff + night owl
+U002,art & culture fan + shopper
+U003,heritage buff + art & culture fan
+U004,art & culture fan + photographer
+U005,photographer + heritage buff
+U006,spiritual seeker
+U007,art & culture fan + foodie
+U008,art & culture fan + foodie
+U009,family traveller + night owl
+U010,family traveller + photographer
+U011,spiritual seeker + art & culture fan
+U012,photographer
+U013,shopper
+U014,photographer + spiritual seeker
+U015,night owl + spiritual seeker
+U016,foodie
+U017,night owl
+U018,shopper + photographer
+U019,shopper + art & culture fan
+U020,family traveller
+U021,photographer
+U022,family traveller + heritage buff
+U023,art & culture fan + heritage buff
+U024,photographer + heritage buff
+U025,shopper + art & culture fan
+U026,shopper + foodie
+U027,photographer + foodie
+U028,spiritual seeker + foodie
+U029,night owl
+U030,foodie + nature lover
+U031,night owl + photographer
+U032,foodie
+U033,foodie + family traveller
+U034,photographer
+U035,art & culture fan + photographer
+U036,photographer
+U037,foodie + photographer
+U038,nature lover + art & culture fan
+U039,foodie
+U040,night owl
+U041,art & culture fan
+U042,nature lover + foodie
+U043,foodie
+U044,foodie + shopper
+U045,art & culture fan + spiritual seeker
+U046,family traveller + night owl
+U047,spiritual seeker
+U048,heritage buff + spiritual seeker
+U049,foodie + shopper
+U050,shopper + heritage buff
+U051,spiritual seeker
+U052,art & culture fan + shopper
+U053,photographer
+U054,art & culture fan
+U055,heritage buff
+U056,heritage buff
+U057,photographer
+U058,spiritual seeker
+U059,photographer + spiritual seeker
+U060,foodie + heritage buff
+U061,spiritual seeker + foodie
+U062,photographer + art & culture fan
+U063,photographer + art & culture fan
+U064,photographer
+U065,heritage buff
+U066,spiritual seeker
+U067,night owl
+U068,photographer + shopper
+U069,foodie
+U070,spiritual seeker
+U071,foodie + nature lover
+U072,spiritual seeker
+U073,photographer
+U074,nature lover + shopper
+U075,heritage buff + photographer
+U076,photographer + heritage buff
+U077,shopper + art & culture fan
+U078,foodie
+U079,foodie
+U080,foodie + nature lover
+U081,family traveller + foodie
+U082,foodie
+U083,photographer + art & culture fan
+U084,shopper
+U085,family traveller + photographer
+U086,family traveller
+U087,heritage buff + spiritual seeker
+U088,family traveller + foodie
+U089,night owl + spiritual seeker
+U090,art & culture fan
+U091,heritage buff + family traveller
+U092,foodie
+U093,art & culture fan + heritage buff
+U094,nature lover
+U095,shopper + heritage buff
+U096,foodie + spiritual seeker
+U097,art & culture fan + family traveller
+U098,photographer
+U099,night owl + heritage buff
+U100,foodie + photographer
+U101,heritage buff
+U102,night owl + photographer
+U103,nature lover
+U104,spiritual seeker
+U105,shopper
+U106,art & culture fan
+U107,heritage buff + foodie
+U108,night owl + spiritual seeker
+U109,nature lover + foodie
+U110,shopper + photographer
+U111,heritage buff
+U112,shopper + nature lover
+U113,spiritual seeker
+U114,nature lover
+U115,shopper + art & culture fan
+U116,photographer + shopper
+U117,heritage buff
+U118,shopper + foodie
+U119,night owl
+U120,family traveller
+U121,photographer
+U122,foodie + spiritual seeker
+U123,nature lover
+U124,nature lover + photographer
+U125,night owl + shopper
+U126,photographer + shopper
+U127,family traveller
+U128,art & culture fan + shopper
+U129,heritage buff
+U130,heritage buff
+U131,art & culture fan + shopper
+U132,night owl
+U133,night owl
+U134,night owl + foodie
+U135,night owl + family traveller
+U136,spiritual seeker
+U137,spiritual seeker + night owl
+U138,family traveller + shopper
+U139,foodie + heritage buff
+U140,foodie
+U141,foodie + shopper
+U142,spiritual seeker + photographer
+U143,family traveller
+U144,night owl + nature lover
+U145,night owl + art & culture fan
+U146,spiritual seeker
+U147,night owl
+U148,nature lover + shopper
+U149,night owl + photographer
+U150,foodie
+U151,heritage buff + photographer
+U152,shopper + heritage buff
+U153,heritage buff
+U154,night owl + shopper
+U155,spiritual seeker + foodie
+U156,night owl + spiritual seeker
+U157,art & culture fan
+U158,nature lover + shopper
+U159,night owl + nature lover
+U160,heritage buff
+U161,family traveller
+U162,family traveller + photographer
+U163,spiritual seeker + nature lover
+U164,foodie + heritage buff
+U165,nature lover
+U166,nature lover + night owl
+U167,spiritual seeker + shopper
+U168,art & culture fan + spiritual seeker
+U169,heritage buff
+U170,spiritual seeker + family traveller
+U171,foodie + family traveller
+U172,art & culture fan
+U173,foodie + photographer
+U174,nature lover + family traveller
+U175,heritage buff + nature lover
+U176,nature lover + night owl
+U177,family traveller + heritage buff
+U178,night owl + spiritual seeker
+U179,shopper + art & culture fan
+U180,spiritual seeker + nature lover
+U181,family traveller + art & culture fan
+U182,photographer + nature lover
+U183,photographer + heritage buff
+U184,photographer
+U185,family traveller
+U186,nature lover + art & culture fan
+U187,shopper + art & culture fan
+U188,heritage buff
+U189,heritage buff + nature lover
+U190,night owl
+U191,night owl + art & culture fan
+U192,heritage buff
+U193,photographer
+U194,family traveller + heritage buff
+U195,nature lover
+U196,nature lover + foodie
+U197,night owl + spiritual seeker
+U198,photographer + nature lover
+U199,heritage buff
+U200,shopper + night owl
+U201,spiritual seeker + foodie
+U202,foodie + nature lover
+U203,spiritual seeker + foodie
+U204,heritage buff
+U205,photographer + nature lover
+U206,family traveller + art & culture fan
+U207,shopper + foodie
+U208,family traveller + night owl
+U209,family traveller + heritage buff
+U210,shopper + night owl
+U211,foodie + photographer
+U212,spiritual seeker + photographer
+U213,spiritual seeker + night owl
+U214,family traveller
+U215,foodie + spiritual seeker
+U216,spiritual seeker
+U217,night owl + nature lover
+U218,art & culture fan + photographer
+U219,art & culture fan + shopper
+U220,family traveller + shopper
+U221,spiritual seeker
+U222,photographer
+U223,heritage buff + family traveller
+U224,spiritual seeker
+U225,nature lover
+U226,photographer
+U227,spiritual seeker + night owl
+U228,art & culture fan
+U229,night owl
+U230,night owl
+U231,art & culture fan + heritage buff
+U232,foodie
+U233,foodie + night owl
+U234,night owl + shopper
+U235,shopper
+U236,night owl + heritage buff
+U237,heritage buff
+U238,nature lover
+U239,shopper
+U240,nature lover + shopper
+U241,spiritual seeker + photographer
+U242,shopper
+U243,heritage buff
+U244,art & culture fan + night owl
+U245,nature lover + photographer
+U246,foodie + photographer
+U247,foodie + photographer
+U248,heritage buff + photographer
+U249,heritage buff
+U250,heritage buff
+U251,spiritual seeker + foodie
+U252,photographer
+U253,nature lover + art & culture fan
+U254,spiritual seeker + foodie
+U255,photographer + art & culture fan
+U256,art & culture fan + nature lover
+U257,family traveller + shopper
+U258,heritage buff + foodie
+U259,photographer + nature lover
+U260,heritage buff
+U261,heritage buff + shopper
+U262,night owl + shopper
+U263,foodie + shopper
+U264,foodie
+U265,foodie + family traveller
+U266,night owl
+U267,nature lover + foodie
+U268,family traveller
+U269,family traveller + shopper
+U270,art & culture fan
+U271,photographer + nature lover
+U272,family traveller + nature lover
+U273,nature lover + shopper
+U274,family traveller + night owl
+U275,photographer + heritage buff
+U276,family traveller
+U277,nature lover
+U278,night owl + shopper
+U279,photographer + spiritual seeker
+U280,night owl
+U281,night owl
+U282,foodie
+U283,spiritual seeker + nature lover
+U284,shopper + spiritual seeker
+U285,art & culture fan + foodie
+U286,shopper + night owl
+U287,heritage buff + photographer
+U288,art & culture fan
+U289,nature lover
+U290,heritage buff + nature lover
+U291,spiritual seeker
+U292,photographer + art & culture fan
+U293,nature lover
+U294,photographer + nature lover
+U295,foodie + shopper
+U296,shopper
+U297,foodie + art & culture fan
+U298,nature lover
+U299,family traveller + shopper
+U300,night owl + family traveller
